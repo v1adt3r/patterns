@@ -1,0 +1,18 @@
+{
+    "name": "v1adt3r/patterns",
+    "authors": [
+        {
+            "name": "v1adt3r",
+            "email": "v1adt3r@gmail.com"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FactoryMethod\\": "FactoryMethod/"
+        }
+    }
+}
